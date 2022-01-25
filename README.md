@@ -1,2 +1,2 @@
-# INFO6150
+# INFO6150_Assgnment1_Junyang_Luo_002103873
 Junyang Luo 002103873
